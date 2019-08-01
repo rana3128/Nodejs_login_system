@@ -2,7 +2,7 @@
   "name": "login system check",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/rana3128/nodejs_loging_system/git",
+  "repository": "https://github.com/rana3128/Nodejs_login_system.git",
   "author": "Vijay <rana3128@gmail.com>",
   "license": "none",
   "scripts": {
