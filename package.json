@@ -1,0 +1,22 @@
+{
+  "name": "login system check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rana3128/nodejs_loging_system/git",
+  "author": "Vijay <rana3128@gmail.com>",
+  "license": "none",
+  "scripts": {
+    "start": "node app",
+    "watch": "nodemon app && mongod"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-mongo": "^3.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "mongoose": "^5.6.5",
+    "nodeman": "^1.1.2"
+  }
+}
